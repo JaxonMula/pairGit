@@ -1,3 +1,4 @@
+
 .profPic 
 {
 padding: 50px;
@@ -5,5 +6,18 @@ padding: 50px;
 
 .Chris
 {
+
+body{
+    background-color: lightblue
+}
+
+div{
+    position: relative;
+    text-align: center;
+}
+
+p{
+    position: relative;
+
     text-align: center;
 }
