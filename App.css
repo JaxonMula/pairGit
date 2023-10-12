@@ -1,4 +1,17 @@
 
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .center-container img {
+    max-width: 100%; 
+  }
+  
+
+
 .profPic 
 {
 padding: 50px;
@@ -21,3 +34,4 @@ p{
 
     text-align: center;
 }
+
