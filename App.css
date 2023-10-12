@@ -1,3 +1,4 @@
+
 .center-container {
     display: flex;
     justify-content: center;
@@ -9,3 +10,28 @@
     max-width: 100%; 
   }
   
+
+
+.profPic 
+{
+padding: 50px;
+}
+
+.Chris
+{
+
+body{
+    background-color: lightblue
+}
+
+div{
+    position: relative;
+    text-align: center;
+}
+
+p{
+    position: relative;
+
+    text-align: center;
+}
+
