@@ -1,3 +1,12 @@
+
+.profPic 
+{
+padding: 50px;
+}
+
+.Chris
+{
+
 body{
     background-color: lightblue
 }
@@ -9,5 +18,6 @@ div{
 
 p{
     position: relative;
+
     text-align: center;
 }
